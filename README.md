@@ -22,6 +22,6 @@ Basic features (v2003).
 	-	Provide Admin panel and comprehensive dashboard to government and recognized institutions for real-time monitoring (Inspired by DSS Decision Support System)
 	-	Government/local authorities can send instructions to other tiers, like Telecom Operator, which can notify targeted population by SMS for those not having the App installed or not using a smartphone.
 
-Of course, this list is not limited and is open to any suggestions.
+Of course, this list is not limited and is open to any suggestions using pull request with 'enhancement' label.
 Thanks for all your contributions.
 Mahfoud G.
