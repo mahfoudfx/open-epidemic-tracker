@@ -1,4 +1,4 @@
-# open-epidemic-tracker
+# Open Epidemic Tracker
 An App that can save lives
 
 Open Epidemic Tracker ‘OET’ aims to become a global free available and efficient mobile app/platform solution for epidemic surveillance and response – availability, gaps and adopted by recognized institutions like World Health Organization ‘WHO’ and governments.
@@ -23,7 +23,9 @@ Basic features (v2003).
 	-	Government/local authorities can send instructions to other tiers, like Telecom Operator, which can notify targeted population by SMS for those not having the App installed or not using a smartphone.
 
 Of course, this list is not limited and is open to any suggestions using pull request with 'enhancement' label.
+
 Thanks for all your contributions.
+
 Mahfoud G.
 
 
