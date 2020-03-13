@@ -28,4 +28,27 @@ Thanks for all your contributions.
 
 Mahfoud G.
 
+Good to know.
 
+Research Article
+Mohanty, B., Chughtai, A. and Rabhi, F., 2019. Use of Mobile Apps for epidemic surveillance and response – availability and gaps.. Global Biosecurity, 1(2), pp.37–49
+https://jglobalbiosecurity.com/articles/10.31646/gbio.39/
+
+How China is using AI and big data to fight the coronavirus
+https://www.aljazeera.com/news/2020/03/china-ai-big-data-combat-coronavirus-outbreak-200301063901951.html
+
+Apple is rejecting coronavirus apps that aren’t from health organizations, app makers say
+https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html
+
+COVID-19 CORONAVIRUS OUTBREAK
+https://www.worldometers.info/coronavirus/
+
+Novel Coronavirus (COVID-19) Situation dashboard
+https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd
+
+Coronavirus Disease 2019 (COVID-19)
+Centers for Disease Control and Prevention (CDC)
+https://www.cdc.gov/coronavirus/2019-ncov/index.html
+
+World Health Organization
+https://www.who.int/
