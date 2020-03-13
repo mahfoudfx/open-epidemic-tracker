@@ -9,6 +9,7 @@ We are inspired mainly by 2 Chinese measures:
 -	10 days challenge to build a hospital.
 OET will be designed to use efficient technics of Big Data and AI with a transparent user data collection policy (Developed through Open Source Project).
 10 days to deliver a first working version with basic features due to the emergency. The long term project will be more mature and include deeper functions developed with the help of health professionals.
+
 Basic features (v2003).
 -	Client Side.
 	-	User Registration. Definition of Profile Required Information: Age, Sex, Some useful health details (diabetes, cardiac disease, … TBD by health specialist). Maybe email and/or phone to give the ability to user to be contacted by government/health services.
